@@ -1,4 +1,4 @@
-,// sigslot.h: Signal/Slot classes
+// sigslot.h: Signal/Slot classes
 //
 // Written by Sarah Thompson (sarah@telergy.com) 2002.
 //
@@ -2849,3 +2849,4 @@ namespace sigslot {
 
 
 #endif // TALK_BASE_SIGSLOT_H__
+
