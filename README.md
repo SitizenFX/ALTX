@@ -1,4 +1,4 @@
-# 🚀 SitizenFX / ALTX – Version 18.0 (September 2025)
+# 🚀 SitizenFX / FiveZ – Version 18.0 (September 2025)
 
 **vidlluc Engine** is the next-generation version of FiveZ, a proprietary multiplayer and game framework developed and maintained by **Sfx.re Limited**.  
 It is a custom fork of the **CitizenFX framework**, expanded with new systems, branding, and modules to deliver high-performance multiplayer on dedicated servers.
@@ -108,11 +108,3 @@ All upstream projects retain their **MIT license**. SitizenFX maintains all requ
 
 For demos, tutorials, and updates:  
 👉 [VidllQ YouTube Channel](https://www.youtube.com/@Mrsiita)
-
-## Getting started
-To play FiveM, simply download the launcher binaries from the [website](https://fivem.net).
-
-To develop FiveM, please follow the documentation in [docs/](https://github.com/citizenfx/fivem/tree/master/docs) in the repository.
-
-## License
-FiveM is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/citizenfx/fivem/blob/master/code/LICENSE) file in the repository.
